@@ -1,0 +1,16 @@
+{
+  "RECIPES" : "Recipes",
+  "PROFILE" : "Profile",
+  "LOGOUT" : "Log out",
+  "MYRECIPES" : "My recipes",
+  "NEWRECIPE" : "New Recipe",
+  "NORECIPEMESSAGE" : "Use this button to create recipes!! :D",
+  "NAME" : "Name",
+  "DESC" : "Description",
+  "CATEGORY" : "Category",
+  "DELETE" : "Delete",
+  "EDIT" : "Edit",
+  "Breakfast" : "Breakfast",
+  "Lunch" : "Lunch",
+  "Diner" : "Diner"
+}

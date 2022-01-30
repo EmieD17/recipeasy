@@ -1,0 +1,16 @@
+{
+  "RECIPES" : "Recettes",
+  "PROFILE" : "Profil",
+  "LOGOUT" : "Déconnexion",
+  "MYRECIPES" : "Mes recettes",
+  "NEWRECIPE" : "Nouvelle recette",
+  "NORECIPEMESSAGE" : "Utilise ce bouton pour créer une recette!! :D",
+  "NAME" : "Nom",
+  "DESC" : "Description",
+  "CATEGORY" : "Categorie",
+  "DELETE" : "Supprimer",
+  "EDIT" : "Modifier",
+  "Breakfast" : "Déjeuner",
+  "Lunch" : "Diner",
+  "Diner" : "Souper"
+}
